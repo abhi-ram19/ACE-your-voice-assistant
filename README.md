@@ -1,4 +1,4 @@
-# ACE-your-voice-assistant
+# ACE- Personal voice-assistant
 ACE is a Python-based intelligent voice assistant designed to recognize voice commands and perform real-time tasks through speech interaction. The assistant listens to user input, processes commands using speech recognition, and executes various automated actions.
 
 🔹 Key Features:
